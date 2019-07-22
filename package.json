@@ -3,9 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@loadable/component": "^5.10.2",
+    "@reach/router": "^1.2.1",
+    "lodash": "^4.17.14",
+    "lodash.camelcase": "^4.3.0",
+    "p-min-delay": "^3.1.0",
+    "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-localization": "^1.0.14",
+    "react-redux": "^7.1.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "redux": "^4.0.4",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "sync-request": "^6.1.0",
+    "toastr": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
